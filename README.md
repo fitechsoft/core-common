@@ -1,2 +1,2 @@
 # fitech-common
-The common for fitech applications
+The common for fitech core
